@@ -35,7 +35,7 @@ body {
 .calculadora {
     width: 264px;
     height: 360px;
-    background-image: url('/img/calculadora-calc.png');
+    background-image: url('https://github.com/AmandaSoaress/alura-calculadora/blob/master/img/calculadora-calc.png?raw=true');
     margin: 0 auto;
     position: relative;
 }
